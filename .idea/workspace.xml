@@ -1,32 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="35c502a7-30c5-4538-bf9f-f8dd53396935" name="Changes" comment="" />
+    <list default="true" id="35c502a7-30c5-4538-bf9f-f8dd53396935" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Colors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraLI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraSI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Matrius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Tauler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicis Estiu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicis Estiu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/Casella.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/Casella.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/Tauler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/Tauler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/TresEnRatlla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/TresEnRatlla.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;raisachilba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/raisachilba/ExercicisEstiu.git&quot;,
+    &quot;accountId&quot;: &quot;e4389c1c-cea9-4340-ae63-d54074753fa4&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2zseJ7Ck0b81IZYUESoZ06XCsve" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Tetris.executor": "Run",
+    "Application.TresEnRatlla.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/raisachilba/IdeaProjects/Exercicis Estiu/src/Main.java"
+    "onboarding.tips.debug.path": "/Users/raisachilba/IdeaProjects/Exercicis Estiu/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tetris" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tetris">
+    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tetris.Tetris" />
+      <module name="Exercicis Estiu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TresEnRatlla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TresEnRatlla.TresEnRatlla" />
+      <module name="Exercicis Estiu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TresEnRatlla.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tetris" />
+        <item itemvalue="Application.TresEnRatlla" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
