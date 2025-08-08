@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35c502a7-30c5-4538-bf9f-f8dd53396935" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraLI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraSI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/FiguraT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Matrius.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Tauler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tetris/Tetris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="35c502a7-30c5-4538-bf9f-f8dd53396935" name="Changes" comment="Ex.2 estiu">
+      <change afterPath="$PROJECT_DIR$/src/TirParabolic/Projectil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TirParabolic/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TirParabolic/TirParabolic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicis Estiu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicis Estiu.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/Casella.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/Casella.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/Tauler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/Tauler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TresEnRatlla/TresEnRatlla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TresEnRatlla/TresEnRatlla.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +38,9 @@
     &quot;accountId&quot;: &quot;e4389c1c-cea9-4340-ae63-d54074753fa4&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -65,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Tetris.executor": "Run",
+    "Application.TirParabolic.executor": "Run",
     "Application.TresEnRatlla.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,13 +72,26 @@
       <recent name="Tetris" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tetris">
+  <component name="RunManager" selected="Application.TirParabolic">
     <configuration name="Tetris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Tetris.Tetris" />
       <module name="Exercicis Estiu" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Tetris.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TirParabolic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TirParabolic.TirParabolic" />
+      <module name="Exercicis Estiu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TirParabolic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TirParabolic" />
         <item itemvalue="Application.Tetris" />
         <item itemvalue="Application.TresEnRatlla" />
       </list>
@@ -124,7 +129,20 @@
       <option name="presentableId" value="Default" />
       <updated>1752524135414</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ex.2 estiu">
+      <option name="closed" value="true" />
+      <created>1754659415266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754659415266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex.2 estiu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex.2 estiu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
